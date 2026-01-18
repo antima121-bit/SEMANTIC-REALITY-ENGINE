@@ -10,8 +10,7 @@ The **Semantic Reality Engine (S.R.E.)** is a high-fidelity frontend simulation 
 
 ## 🚀 Live Demo
 
-**[View Live Deployment]((https://semantic-reality-engine.vercel.app))**
-
+**[View Live Deployment](https://semantic-reality-engine.vercel.app)**
 ---
 
 ## ✨ Key Features
