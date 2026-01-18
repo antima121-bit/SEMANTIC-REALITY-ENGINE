@@ -1,16 +1,88 @@
-# React + Vite
+# S.R.E. - Semantic Reality Engine
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![S.R.E. Dashboard](public/screenshots/app-demo.webp)
 
-Currently, two official plugins are available:
+> **"Reality is just a semantic vector waiting to be parsed."**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The **Semantic Reality Engine (S.R.E.)** is a high-fidelity frontend simulation of a domain-critical intelligence system. It demonstrates advanced React.js capabilities, Glassmorphism UI design, and interactive simulations of voice-activated compliance logic.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+**[View Live Deployment](https://semantic-reality-engine.vercel.app)** *(Replace with your actual Vercel URL)*
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Key Features
+
+### 🖥️ "Atlas Digital" Aesthetic
+*   **Deep Void Black** theme with a subtle grid foundation.
+*   **Vibrant Orange-Red** accents for high-contrast visibility.
+*   **Glassmorphism 2.0**: Blocky, crystal-like panels with dynamic borders.
+
+### 🎙️ Voice Command ("Jarvis Mode")
+*   Activate the **Microphone** to simulate voice input.
+*   Visual **Audio Wave** animations synced to state.
+*   **Simulated Tuition**: Realistic character-by-character typing effect for Hindi input.
+
+![Voice Command Demo](public/screenshots/voice-demo.webp)
+
+### ⚡ Auto-Inject & Tools
+*   **Quick Inject (⚡)**: Instantly load complex test cases (Legal, Medical, Admin).
+*   **Semantic Analysis**: Simulates the extraction of actors, obligations, and risk levels from raw text.
+*   **Audit Trail**: detailed history of all semantic vectors processed.
+
+### 🧠 Domain Logic Simulation
+The engine currently supports mock processing for:
+1.  **Legal**: Checks for notice periods and termination clauses.
+2.  **Medical**: Flags dosage instructions and critical compliance.
+3.  **Administrative**: Tracks file approvals and deadlines.
+
+---
+
+## 🛠️ Tech Stack
+
+*   **Core**: React 18, Vite
+*   **language**: JavaScript (ES6+)
+*   **Styling**: Vanilla CSS3 (Custom Variables, CSS Grid, Keyframe Animations)
+*   **Design**: Glassmorphism, Brutalism
+
+---
+
+## 📦 Installation
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/antima121-bit/SEMANTIC-REALITY-ENGINE.git
+cd SEMANTIC-REALITY-ENGINE
+npm install
+```
+
+### Run Locally
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Visit `http://localhost:5173`.
+
+---
+
+## 👨‍💻 Developer Uplink
+
+**Antima Mishra**
+*   🔗 **LinkedIn**: [antima-mishra-6483ba252](https://www.linkedin.com/in/antima-mishra-6483ba252/)
+*   💻 **GitHub**: [antima121-bit](https://github.com/antima121-bit)
+*   📧 **Email**: antimamishra113@gmail.com
+
+---
+
+## 🎨 Design Inspiration
+
+Based on the "Atlas Digital" concept art:
+
+![Design Inspiration](public/screenshots/inspiration.png)
