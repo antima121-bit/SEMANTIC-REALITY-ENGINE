@@ -80,3 +80,6 @@ Visit `http://localhost:5173`.
 
 ---
 
+##Workflow
+<img width="2144" height="1984" alt="Gemini_Generated_Image_32eypo32eypo32ey" src="https://github.com/user-attachments/assets/22a0e610-3413-4103-8481-ceff8f1173f0" />
+
