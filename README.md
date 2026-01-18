@@ -81,8 +81,3 @@ Visit `http://localhost:5173`.
 
 ---
 
-## 🎨 Design Inspiration
-
-Based on the "Atlas Digital" concept art:
-
-![Design Inspiration](public/screenshots/inspiration.png)
